@@ -5,6 +5,10 @@ h1{
 h2{
     color: rgb(207, 18, 128);
 }
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
 button{
     color:blueviolet;
     padding: 10px;
